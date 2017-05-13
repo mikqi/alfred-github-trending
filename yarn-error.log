@@ -1,0 +1,65 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add trending-github
+
+PATH: 
+  /Users/muhammadrivki/.rvm/gems/ruby-2.3.0/bin:/Users/muhammadrivki/.rvm/gems/ruby-2.3.0@global/bin:/Users/muhammadrivki/.rvm/rubies/ruby-2.3.0/bin:/usr/local/opt/elasticsearch@2.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/muhammadrivki/.rvm/bin
+
+Yarn version: 
+  0.22.0
+
+Node version: 
+  7.10.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "alfred-github-explorer",
+    "version": "0.0.0",
+    "description": "Get trending repo on GitHub",
+    "license": "MIT",
+    "repository": "mikqi/alfred-github-explorer",
+    "author": {
+      "name": "Muhammad Rivki",
+      "email": "muhammad.rivki@outlook.com",
+      "url": "rivki.js.org"
+    },
+    "engines": {
+      "node": ">=4"
+    },
+    "scripts": {
+      "test": "xo && ava",
+      "postinstall": "alfy-init",
+      "preuninstall": "alfy-cleanup"
+    },
+    "files": [
+      "index.js",
+      "icon.png",
+      "info.plist"
+    ],
+    "keywords": [
+      "alfred",
+      "workflow",
+      "alfy"
+    ],
+    "dependencies": {
+      "alfy": "^0.6.0"
+    },
+    "devDependencies": {
+      "alfy-test": "^0.3.0",
+      "ava": "^0.18.0",
+      "xo": "^0.17.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com registry.yarnpkg.com:443
+      at errnoException (dns.js:28:10)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:73:26)
