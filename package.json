@@ -1,13 +1,13 @@
 {
   "name": "alfred-github-trending",
   "version": "0.0.1",
-  "description": "Get trending repo on GitHub",
+  "description": "Alfred workflow get trending repo on GitHub",
   "license": "MIT",
   "repository": "mikqi/alfred-github-trending",
   "author": {
     "name": "Muhammad Rivki",
     "email": "muhammad.rivki@outlook.com",
-    "url": "rivki.js.org"
+    "url": "https://rivki.js.org"
   },
   "engines": {
     "node": ">=4"

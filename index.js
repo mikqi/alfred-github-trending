@@ -23,7 +23,7 @@ if (alfy.cache.get('repos')) {
       }));
 
       alfy.cache.set('repos', output, {
-        maxAge: 10000
+        maxAge: 600000
       })
       alfy.output(output)
     })
