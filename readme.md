@@ -1,4 +1,4 @@
-# alfred-github-explorer [![Build Status](https://travis-ci.org/mikqi/alfred-github-explorer.svg?branch=master)](https://travis-ci.org/mikqi/alfred-github-explorer)
+# alfred-github-explorer [![Build Status](https://travis-ci.org/mikqi/alfred-github-trending.svg?branch=master)](https://travis-ci.org/mikqi/alfred-github-trending)
 
 > Alfred 3 workflow for get trending repo in GitHub
 
