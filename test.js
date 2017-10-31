@@ -22,7 +22,7 @@ test(async t => {
         },
         mods: {
           alt: {
-            subtitle: 'Language: C++, stars: 75212, fork: 37143'
+            subtitle: 'Language: C++, stars: 75213, fork: 37143'
           }
         }
       }
