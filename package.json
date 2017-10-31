@@ -28,6 +28,7 @@
     "alfy"
   ],
   "dependencies": {
+    "alfred-notifier": "^0.2.2",
     "alfy": "^0.6.0",
     "trending-github": "^1.0.2"
   },
