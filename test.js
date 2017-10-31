@@ -7,24 +7,17 @@ test(async t => {
   const result = await alfy('Rainbow')
   delete result[0].mods
   t.deepEqual(
-    [result[11]],
+    [result[0]],
     [
       {
-        title: 'tensorflow/tensorflow',
-        subtitle:
-          'Computation using data flow graphs for scalable machine learning',
-        quicklookurl: 'https://github.com/tensorflow/tensorflow',
-        arg: 'https://github.com/tensorflow/tensorflow',
+        arg: 'https://github.com/Alimei/hangzhouYunQi2017ppt',
+        quicklookurl: 'https://github.com/Alimei/hangzhouYunQi2017ppt',
+        subtitle: null,
         text: {
-          copy: 'https://github.com/tensorflow/tensorflow',
-          largetype:
-            'Computation using data flow graphs for scalable machine learning'
+          copy: 'https://github.com/Alimei/hangzhouYunQi2017ppt',
+          largetype: null
         },
-        mods: {
-          alt: {
-            subtitle: 'Language: C++, stars: 75213, fork: 37143'
-          }
-        }
+        title: 'Alimei/hangzhouYunQi2017ppt'
       }
     ]
   )
