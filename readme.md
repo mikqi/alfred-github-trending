@@ -15,13 +15,15 @@ $ npm install --global alfred-github-trending
 
 In Alfred, type `gtr` follow with your query and then press <kbd>Enter</kbd>.
 
-<img src="./media/media1.png" width="300"/>
+<img src="./media/media1.png" width="500"/>
 
 choose your trending periods.
-<img src="./media/media2.png" width="300"/>
+
+<img src="./media/media2.png" width="500"/>
 
 and hold <kbd>alt</kbd> to see repository detail
-<img src="./media/media3.png" width="300"/>
+
+<img src="./media/media3.png" width="500"/>
 
 ## Shortcut
 
