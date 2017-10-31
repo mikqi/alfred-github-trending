@@ -20,6 +20,10 @@ if (alfy.cache.get('repos')) {
           subtitle: `Language: ${repo.language}, stars: ${repo.stars}, fork: ${repo.forks}`
         }
       },
+      text: {
+        copy: repo.href,
+        largetype: repo.description
+      },
       quicklookurl: repo.href
     }))
 
