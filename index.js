@@ -1,11 +1,14 @@
 'use strict'
 const alfy = require('alfy')
+const alfredNotifier = require('alfred-notifier')
 const trending = require('trending-github')
 
 let [language, period] = alfy.input.split(' ')
 if (!period) {
   period = 'daily'
 }
+
+alfredNotifier()
 
 if (alfy.cache.get('repos')) {
   alfy.output(alfy.cache.get('repos'))
