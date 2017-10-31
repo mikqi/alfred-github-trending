@@ -11,20 +11,25 @@ $ npm install --global alfred-github-trending
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred 3 [Powerpack](https://www.alfredapp.com/powerpack/).*
 
-
 ## Usage
 
 In Alfred, type `gtr` follow with your query and then press <kbd>Enter</kbd>.
 
-![first](./media/media1.png)
+<img src="./media/media1.png" width="300"/>
 
 choose your trending periods.
-![second](./media/media2.png)
+<img src="./media/media2.png" width="300"/>
 
 and hold <kbd>alt</kbd> to see repository detail
-![third](./media/media3.png)
+<img src="./media/media3.png" width="300"/>
 
+## Shortcut
 
+`cmd+y` to use quick preview in repositories.
+
+`cmd+l` to see full description about repositories.
+
+`cmd+c` to copy link in focus list.
 
 ## License
 
