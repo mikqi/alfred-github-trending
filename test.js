@@ -6,12 +6,19 @@ test(async t => {
   const alfy = alfyTest()
   const result = await alfy('Rainbow')
   delete result[0].mods
-  t.deepEqual([result[0]], [
-    {
-      title: 'Alimei/hangzhouYunQi2017ppt',
-      subtitle: null,
-      quicklookurl: 'https://github.com/Alimei/hangzhouYunQi2017ppt',
-      arg: 'https://github.com/Alimei/hangzhouYunQi2017ppt'
-    }
-  ])
+  t.deepEqual(
+    [result[0]],
+    [
+      {
+        arg: 'https://github.com/Alimei/hangzhouYunQi2017ppt',
+        quicklookurl: 'https://github.com/Alimei/hangzhouYunQi2017ppt',
+        subtitle: null,
+        text: {
+          copy: 'https://github.com/Alimei/hangzhouYunQi2017ppt',
+          largetype: null
+        },
+        title: 'Alimei/hangzhouYunQi2017ppt'
+      }
+    ]
+  )
 })
