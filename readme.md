@@ -2,14 +2,13 @@
 
 > Alfred 3 workflow for get trending repo in GitHub
 
-
 ## Install
 
 ```
 $ npm install --global alfred-github-trending
 ```
 
-*Requires [Node.js](https://nodejs.org) 4+ and the Alfred 3 [Powerpack](https://www.alfredapp.com/powerpack/).*
+_Requires [Node.js](https://nodejs.org) 4+ and the Alfred 3 [Powerpack](https://www.alfredapp.com/powerpack/)._
 
 ## Usage
 
@@ -35,4 +34,4 @@ and hold <kbd>alt</kbd> to see repository detail
 
 ## License
 
-MIT © [Muhammad Rivki](https://rivki.js.org)
+MIT © [Muhammad Rivki](https://this.rivki.id)
