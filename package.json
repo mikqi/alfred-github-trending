@@ -7,7 +7,7 @@
   "author": {
     "name": "Muhammad Rivki",
     "email": "muhammad.rivki@outlook.com",
-    "url": "https://rivki.js.org"
+    "url": "https://this.rivki.id/"
   },
   "engines": {
     "node": ">=4"
@@ -25,7 +25,10 @@
   "keywords": [
     "alfred",
     "workflow",
-    "alfy"
+    "alfy",
+    "github",
+    "github-trending",
+    "alfred-workflow"
   ],
   "dependencies": {
     "alfred-notifier": "^0.2.2",
@@ -34,7 +37,7 @@
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",
-    "ava": "^0.18.0",
+    "ava": "^2.4.0",
     "xo": "^0.17.0"
   },
   "xo": {
