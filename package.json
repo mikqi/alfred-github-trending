@@ -1,13 +1,13 @@
 {
   "name": "alfred-github-trending",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Alfred workflow get trending repo on GitHub",
   "license": "MIT",
   "repository": "mikqi/alfred-github-trending",
   "author": {
     "name": "Muhammad Rivki",
-    "email": "muhammad.rivki@outlook.com",
-    "url": "https://rivki.js.org"
+    "email": "muhammad.rivki@live.com",
+    "url": "https://this.rivki.id"
   },
   "engines": {
     "node": ">=4"
@@ -30,7 +30,7 @@
   "dependencies": {
     "alfred-notifier": "^0.2.2",
     "alfy": "^0.6.0",
-    "trending-github": "^1.0.2"
+    "trending-github": "^2.0.1"
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",
