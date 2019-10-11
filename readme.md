@@ -1,6 +1,6 @@
 # alfred-github-explorer [![Build Status](https://travis-ci.org/mikqi/alfred-github-trending.svg?branch=master)](https://travis-ci.org/mikqi/alfred-github-trending)
 
-> Alfred 3 workflow for get trending repo in GitHub
+> Alfred workflow for get trending repo in GitHub
 
 <h1 align="center">
   <img src="media.gif" />
@@ -12,7 +12,7 @@
 $ npm install --global alfred-github-trending
 ```
 
-_Requires [Node.js](https://nodejs.org) 4+ and the Alfred 3 [Powerpack](https://www.alfredapp.com/powerpack/)._
+_Requires [Node.js](https://nodejs.org) 4+ and the Alfred 3 or 4 [Powerpack](https://www.alfredapp.com/powerpack/)._
 
 ## Usage
 
