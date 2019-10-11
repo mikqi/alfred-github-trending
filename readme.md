@@ -2,6 +2,10 @@
 
 > Alfred 3 workflow for get trending repo in GitHub
 
+<h1 align="center">
+  <img src="media.gif" />
+</h1>
+
 ## Install
 
 ```
