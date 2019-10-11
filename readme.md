@@ -18,6 +18,14 @@ _Requires [Node.js](https://nodejs.org) 4+ and the Alfred 3 [Powerpack](https://
 
 In Alfred, type `gtr` follow with your query and then press <kbd>Enter</kbd>.
 
+## Available Command
+
+- `cmd+y` to use quick preview in repositories.
+
+- `cmd+l` to see full description about repositories.
+
+- `cmd+c` to copy link in focus list.
+
 <img src="./media/media1.png" width="500"/>
 
 choose your trending periods.
@@ -27,14 +35,6 @@ choose your trending periods.
 and hold <kbd>alt</kbd> to see repository detail
 
 <img src="./media/media3.png" width="500"/>
-
-## Shortcut
-
-`cmd+y` to use quick preview in repositories.
-
-`cmd+l` to see full description about repositories.
-
-`cmd+c` to copy link in focus list.
 
 ## License
 
