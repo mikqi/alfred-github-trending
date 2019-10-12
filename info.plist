@@ -174,7 +174,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Update available: 1.0.1 → 1.0.0. Run `npm install -g alfred-github-trending`</string>
+				<string>Update available: 1.0.1 → 1.1.0. Run `npm install -g alfred-github-trending`</string>
 				<key>title</key>
 				<string>Search your languages...</string>
 				<key>withspace</key>
@@ -219,7 +219,7 @@
 				<key>scriptfile</key>
 				<string>index.js</string>
 				<key>subtext</key>
-				<string>Update available: 1.0.1 → 1.0.0. Run `npm install -g alfred-github-trending`</string>
+				<string>Update available: 1.0.1 → 1.1.0. Run `npm install -g alfred-github-trending`</string>
 				<key>title</key>
 				<string>Get trending {var:language} repo on GitHub</string>
 				<key>type</key>
@@ -287,7 +287,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Update available: 1.0.1 → 1.0.0. Run `npm install -g alfred-github-trending`</string>
+				<string>Update available: 1.0.1 → 1.1.0. Run `npm install -g alfred-github-trending`</string>
 				<key>title</key>
 				<string>Select Period</string>
 				<key>withspace</key>
