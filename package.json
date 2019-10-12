@@ -1,6 +1,6 @@
 {
   "name": "alfred-github-trending",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Alfred workflow get trending repo on GitHub",
   "license": "MIT",
   "repository": "mikqi/alfred-github-trending",
