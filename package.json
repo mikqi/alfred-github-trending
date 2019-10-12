@@ -15,7 +15,8 @@
   "scripts": {
     "test": "xo && ava",
     "postinstall": "alfy-init",
-    "preuninstall": "alfy-cleanup"
+    "preuninstall": "alfy-cleanup",
+    "publish": "np"
   },
   "files": [
     "index.js",
@@ -35,7 +36,8 @@
   "devDependencies": {
     "alfy-test": "^0.3.0",
     "ava": "^0.18.0",
-    "xo": "^0.17.0"
+    "xo": "^0.17.0",
+    "np": "^5.1.1"
   },
   "xo": {
     "space": true,
